@@ -1,0 +1,4 @@
+/m.logtlog.log
+*.log
+
+i love u
